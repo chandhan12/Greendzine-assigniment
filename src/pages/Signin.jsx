@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import loginpic from '../assets/Rectangle 26@2x.png'
-import GoogleIcon from '../assets/Google icon.svg'
+import GoogleIcon from '../assets/goog.svg'
 import AppleIcon from '../assets/icons8-apple-logo.svg'
 
 const Signin = () => {
